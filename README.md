@@ -21,8 +21,6 @@ men det kan selvfølgelig ændres til noget der simulerer virkeligheden.
 
 Du kan se en gif af min løsning her, og kan naturligvis kigge på min kode under solution-mappen - men prøv at se hvad du kan skabe uden at kigge først.
 
-<div>
-    <video src='https://github.com/opgaver/TrafikLys/raw/master/solution/mcronberg/TrafficLight/trafiklys.mp4' />
-</div>
+![](solution/mcronberg/TrafficLight/trafiklys.gif)
 
 Du er velkommen til at skabe en PR med din løsning, hvis du vil dele den. Du skal bare sørge for, at den ligger i Solution-mappen i en folder med dit navn.
