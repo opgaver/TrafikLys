@@ -19,7 +19,7 @@ Du bestemmer selv timingen for skift mellem tilstandene - men i min løsning har
 
 men det kan selvfølgelig ændres til noget der simulerer virkeligheden.
 
-Du kan se en gif af min løsning her, og kan naturligvis kigge på min kode under solution-mappen - men prøv at se hvad du kan skabe uden at kigge først.
+Du kan se en gif af min løsning her, og kan naturligvis kigge på min kode under [solution-mappen](solution/mcronberg/) (enten i C# eller js) - men prøv at se hvad du kan skabe uden at kigge først.
 
 ![](solution/mcronberg/TrafficLight/trafiklys.gif)
 
