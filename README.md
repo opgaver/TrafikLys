@@ -1,6 +1,6 @@
-# TrafikLys
+# TrafikLys 
 
-Dette er en simpel opgave i at skrive en klasse, der repræsenterer et trafiklys i C#. I datamatiker/datalog uddannelsen er dette første skridt i at lære om objektorienteret programmering (OOP) samt tilstandsmaskiner.
+Dette er en simpel opgave i at skrive en klasse, der repræsenterer et trafiklys. I datamatiker/datalog uddannelsen er dette første skridt i at lære om objektorienteret programmering (OOP) samt tilstandsmaskiner.
 
 ## Opgave
 
