@@ -25,4 +25,6 @@ Du kan se en gif af min løsning her, og kan naturligvis kigge på min kode unde
     <video src='/solution/mcronberg/TrafficLight/trafiklys.mp4' />
 </div>
 
+<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" />
+
 Du er velkommen til at skabe en PR med din løsning, hvis du vil dele den. Du skal bare sørge for, at den ligger i Solution-mappen i en folder med dit navn.
