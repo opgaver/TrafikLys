@@ -23,7 +23,7 @@ Du kan se en gif af min løsning her, og kan naturligvis kigge på min kode unde
 
 ![](solution/mcronberg/cs/trafiklys.gif)
 
-Du er velkommen til at skabe en PR med din løsning, hvis du vil dele den. Du skal bare sørge for, at den ligger i Solution-mappen i en folder med dit navn.
+Du er velkommen til at [skabe en PR](https://github.com/opgaver) med din løsning, hvis du vil dele den. Du skal bare sørge for, at den ligger i Solution-mappen i en folder med dit navn.
 
 ## Spørgsmål
 
