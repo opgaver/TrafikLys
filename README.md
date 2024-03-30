@@ -21,6 +21,6 @@ men det kan selvfølgelig ændres til noget der simulerer virkeligheden.
 
 Du kan se en gif af min løsning her, og kan naturligvis kigge på min kode under [solution-mappen](solution/mcronberg/) (enten i C# eller js) - men prøv at se hvad du kan skabe uden at kigge først.
 
-![](solution/mcronberg/TrafficLight/trafiklys.gif)
+![](solution/mcronberg/cs/trafiklys.gif)
 
 Du er velkommen til at skabe en PR med din løsning, hvis du vil dele den. Du skal bare sørge for, at den ligger i Solution-mappen i en folder med dit navn.
