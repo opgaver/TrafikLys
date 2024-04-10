@@ -45,12 +45,7 @@ public class TrafficLight
     {
         t1.Interval = seconds * 1000;
         t1.Start();
-    }
-
-    private void EndTimer()
-	{
-		t1.Stop();		
-	}
+    }    
 }
 
 public enum LightStates
